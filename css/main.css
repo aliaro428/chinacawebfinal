@@ -1683,6 +1683,7 @@ ul.social_icons li  a i{
 }
 
 .plan {
+  margin-top: -20px;
   position: relative;
   margin-bottom: 70px;
 }
@@ -2602,4 +2603,22 @@ ul.dropdown-menu {
   .featuretext{
     margin-top: -40px;
   }
+}
+.three{
+  background-image: url("images/client1.png")
+}
+.detailrel{
+  background: white;
+  height: 105px;
+}
+.detailpar{
+  margin-right: 30px
+}
+.detailimg{
+  height
+  :180px;
+}
+.headdet{
+  text-align: center;
+  margin-right:30px;
 }
