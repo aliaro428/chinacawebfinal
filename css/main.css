@@ -2625,13 +2625,14 @@ ul.dropdown-menu {
   font-weight: italic; 
       text-transform: uppercase; 
             text-shadow: 2px 2px #c52d2f;
-
+             letter-spacing: 3px;
+font-size: 30px;
 }
 .sldiertext1{
   font-weight: italic; 
       text-transform: uppercase; 
-            text-shadow: 1px 1px  #ffcc00
-;
+            text-shadow: 1px 1px  #ffcc00;
+
 
 }
 .text1{
