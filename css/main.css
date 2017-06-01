@@ -2615,15 +2615,26 @@ ul.dropdown-menu {
   margin-right: 30px
 }
 .detailimg{
-  height
-  :180px;
+  height :180px;
 }
 .headdet{
   text-align: center;
   margin-right:30px;
 }
 .sldiertext{
-  background-color: #c52d2f;
-  font-weight: italic;  
- 
+  font-weight: italic; 
+      text-transform: uppercase; 
+            text-shadow: 2px 2px #c52d2f;
+
+}
+.sldiertext1{
+  font-weight: italic; 
+      text-transform: uppercase; 
+            text-shadow: 1px 1px  #ffcc00
+;
+
+}
+.text1{
+      text-shadow: 2px 2px #c52d2f;
+      color:#c52d2f;
 }
